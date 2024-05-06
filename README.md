@@ -3,6 +3,7 @@
 This is a Django-based ChatBot application integrated with Bootstrap templates for a sleek and responsive design.
 
 **Getting Started**
+
 To get a local copy up and running follow these simple steps.
 
 **Prerequisites**
